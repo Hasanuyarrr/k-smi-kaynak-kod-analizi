@@ -1,1 +1,1 @@
-# k-smi-kaynak-kod-analizi
+# kismi-kaynak-kod-analizi
